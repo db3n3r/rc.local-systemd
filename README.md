@@ -18,3 +18,5 @@ WantedBy=multi-user.target
 
 OBS: Adicione quantas linhas Exec Start for necessárias. <br>
 necessário uma linha para cada scritp que for executar.
+
+Permissão do arquivo 644
